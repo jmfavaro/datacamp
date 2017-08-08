@@ -1,2 +1,2 @@
 # datacamp
-cours datacamp
+cours de datacamp
